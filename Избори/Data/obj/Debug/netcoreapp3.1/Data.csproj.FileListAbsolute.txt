@@ -1,0 +1,10 @@
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\asent\Desktop\Гражданско Образование\Избори\Data\obj\Debug\netcoreapp3.1\Data.pdb

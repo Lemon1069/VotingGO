@@ -1,0 +1,13 @@
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\bin\Debug\netcoreapp3.1\VotingActivities.deps.json
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\bin\Debug\netcoreapp3.1\VotingActivities.dll
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\bin\Debug\netcoreapp3.1\VotingActivities.pdb
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.csproj.AssemblyReference.cache
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.AssemblyInfoInputs.cache
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.AssemblyInfo.cs
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.csproj.CoreCompileInputs.cache
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.csproj.CopyComplete
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.dll
+C:\Users\asent\Desktop\Гражданско Образование\Избори\VotingActivities\obj\Debug\netcoreapp3.1\VotingActivities.pdb
